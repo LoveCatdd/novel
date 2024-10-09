@@ -1,0 +1,23 @@
+.search-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 85%;
+    height: 100%;
+}
+
+.Bar-color {
+    background-color: #171717;
+}
+
+.title-start {
+    display: flex;
+    justify-self: start;
+}
+.main-warp {
+    width: 88%;
+    height: 100%;
+    padding-top: 90px;
+    padding-left: 120px;
+    min-height: 1000px;
+}
